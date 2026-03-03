@@ -8,10 +8,10 @@ anyhow = "1.0"
 arrow = "55.1"
 async-trait = "0.1"
 aws-config = { version = "1.5", features = ["behavior-version-latest"] }
-aws-sdk-s3 = "1.63"
+aws-sdk-s3 = "1.64"
 aws-smithy-types = "1.2"
 axum = { version = "0.8", features = ["macros"] }
-bytes = "1.10"
+bytes = "1.11"
 chrono = { version = "0.4", features = ["serde"] }
 clap = { version = "4", features = ["derive"] }
 figment = { version = "0.10.12", features = ["env", "yaml", "test"] }
